@@ -1,0 +1,2 @@
+# StudentAdminPortal.UI
+StudentAdminPortal.UI
